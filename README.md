@@ -1,3 +1,3 @@
 # Hello-word
-First Github project
-code to learn not learn to code
+#First Github project
+#code to learn not learn to code
